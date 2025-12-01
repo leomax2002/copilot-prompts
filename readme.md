@@ -34,6 +34,6 @@
 
 [Interação com o Segundo Agente](https://copilot.microsoft.com/shares/W7DhAnY8rH7uN3f3zfLv2)
 
-[Interação com o Terceiro Agente]([url](https://copilot.microsoft.com/shares/RzXarvcTNSuF4Tpm7hgBq))
+[Interação com o Terceiro Agente](https://copilot.microsoft.com/shares/RzXarvcTNSuF4Tpm7hgBq)
 
 >Observação: Imagens das interações com os agentes na pasta imagens.
