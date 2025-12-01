@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Entrevistador e Planejador de Carreira</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -18,93 +18,20 @@
 </p>
 
 <!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
+
 <!--  -->
 
 <br/>
 <br/>
 
 ## 💻 Sobre o Projeto
+**Nome:** Leonardo Maximo Silva
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**Objetivo:** Utilizar os Prompsts para os agentes de IA Entrevistador de Carreira e Planejador de Carreira
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 📚 Entregável:
+[Interação com o Primeiro Agente](https://copilot.microsoft.com/shares/mNZhHqKiqFz7gkv3Etizc)
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+[Interação com o Segundo Agente](url)
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
-
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
-
-- [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+>Observação: Imagens das interações com os agentes na pasta imagens.
